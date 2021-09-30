@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edvard Krainiy.
 - 👀 I’m interested in Java Development and Web Development.
 - 🌱 I’m currently learning Java possibilities and frameworks.
-- 💞️ I’m looking to collaborate on Java Web Development companies.
+- 💞️ I’m looking to collaborate with Java Web Development companies.
 - 📫 How to reach me: Telegram - @ekrayniy; VK - /ekrainiy; 
       
 
