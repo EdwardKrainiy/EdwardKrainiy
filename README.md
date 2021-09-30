@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Development and Web Development.
 - 🌱 I’m currently learning Java possibilities and frameworks.
 - 💞️ I’m looking to collaborate with Java Web Development companies.
-- 📫 How to reach me: Telegram - @ekrayniy; VK - /ekrainiy; 
+- 📫 How to reach me: Telegram - @ekrayniy; VK - /ekrainiy.
       
 
 <!---
